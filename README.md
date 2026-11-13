@@ -1,6 +1,6 @@
 # Proyecto-Integrador
-Proyecto integrador
-Dana Paola Chiquito Gallegos
+Proyecto integrador<br>
+Dana Paola Chiquito Gallegos<br>
 Abigail Quintana Garcia
 <img width="4470" height="5505" alt="3er_diagrama" src="https://github.com/user-attachments/assets/99f46ac6-b82b-47c9-821a-7017c4927f6b" />
 <img width="6805" height="965" alt="2do_diagrama" src="https://github.com/user-attachments/assets/7a3785a0-ce10-49e9-975d-41198cda5b74" />
